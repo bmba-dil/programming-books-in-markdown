@@ -1,6 +1,6 @@
 # The C Programming Language, Second Edition
 
-Brian W. Kernighan and Dennis M. Ritchie, converted to markdown from the 2002 ebook for personal study. The book's text is unchanged apart from fixed transcription errors (listed in `tools/errata.tsv`), formatting, links and the marked callouts below.
+Brian W. Kernighan and Dennis M. Ritchie
 
 ## Contents
 
